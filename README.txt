@@ -37,5 +37,9 @@ Since this relies on .htaccess, you will need apache - but feel free to change t
 
 Doctrine was installed into this application via Subversion.  You may be able to just do svn update to get the latest stuff from them - though - do so at your own risk.
 
+There are some example controllers and actions with this installation so that you can see how things work. Also,
+you will find that partials can be rendered by calling renderPartial() in your view scripts like so 
+<?php echo $this->renderPartial('employees/_pagination'); ?>  You will see an example of this in app/views/scripts/employees/show.phtml - you can also specify layouts in app/views/layouts and set which one to use in your controller actions.
+
 Thanks for trying it! Adam Medeiros (aka: adamthedeveloper)
  
