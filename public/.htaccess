@@ -1,0 +1,9 @@
+RewriteEngine on
+#RewriteLog "/Applications/MAMP/htdocs/mvc/log/rewrites.log"
+#RewriteLogLevel 9
+RewriteRule \.(js|css|jpe?g|png|txt|gif|ico)$ - [L]
+
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)$ index.php?controller=$1&action=$2&id=$3 [L,QSA]
+RewriteRule ^([^/]+)/([^/]+) index.php?controller=$1&action=$2 [L,QSA]
+RewriteRule ^([^/]+) index.php?controller=$1&action=index [L,QSA]
+

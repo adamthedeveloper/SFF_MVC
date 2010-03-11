@@ -1,0 +1,762 @@
+8
+
+dir
+7315
+http://svn.doctrine-project.org/branches/1.2/lib/Doctrine
+http://svn.doctrine-project.org
+
+
+
+2010-03-04T10:42:54.775518Z
+7309
+adrive
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+625475ce-881a-0410-a577-b389adb331d8
+
+File
+dir
+
+Hydrator.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+f7ce08b38d7d68cd55ddaa003c727a8e
+2009-10-29T21:24:47.100659Z
+6581
+jwage
+has-props
+
+Overloadable.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+3affb33c46b1345ab64873ff1c47ccd5
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
+has-props
+
+Node
+dir
+
+Transaction
+dir
+
+Parser
+dir
+
+Cli.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+e1fbb18da9ca8b2ed5bc347c2f64e895
+2009-10-23T17:41:30.225311Z
+6561
+jwage
+has-props
+
+Manager.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+61563525b296d8859a2e749a4c786fa4
+2009-11-18T20:36:23.278211Z
+6763
+jwage
+has-props
+
+Template.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+ccfbceebc02bbe9479c8c11d7b270a05
+2009-10-14T03:54:59.992139Z
+6507
+jwage
+has-props
+
+DataDict.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+568e66cfabb8f51489dcb2fd182351cb
+2009-10-10T00:08:43.408249Z
+6479
+jwage
+has-props
+
+Relation.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+4cb2d94206868eabfa065a2c93587a60
+2009-11-17T20:07:47.709068Z
+6743
+jwage
+has-props
+
+AuditLog
+dir
+
+RawSql
+dir
+
+Import
+dir
+
+Inflector.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+5579ba1ce9d4979ae1b49d64c41928e6
+2010-03-02T01:17:05.639023Z
+7283
+jwage
+has-props
+
+Validator.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+c8425c86bc960464486927165278b8d0
+2010-03-02T18:26:48.845438Z
+7295
+jwage
+has-props
+
+Adapter
+dir
+
+Export
+dir
+
+Connection.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+aee9b7fd82bbc2e74de783d7d82c9c7b
+2010-01-14T16:55:33.469393Z
+7029
+guilhermeblanco
+has-props
+
+EventListener
+dir
+
+Locator.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+7533ce96e426e78061cff9f4fdbbacb8
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
+has-props
+
+Migration
+dir
+
+Search.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+b5041d13deb6eb4a288f5f4a6284bdf9
+2010-03-02T17:34:21.672814Z
+7292
+jwage
+has-props
+
+Query.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+2857c993bfd182f261a19ad222bb31b9
+2010-03-01T21:34:37.975432Z
+7260
+jwage
+has-props
+
+Collection
+dir
+
+Sequence.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+c6304015e62b6b2b0f6d450fe26b7b41
+2009-10-19T20:11:24.838746Z
+6537
+guilhermeblanco
+has-props
+
+Pager
+dir
+
+Tree
+dir
+
+Expression
+dir
+
+Hook
+dir
+
+Task
+dir
+
+File.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+df7b5a3ad41f92abbafcd093da7d3c02
+2009-06-22T15:44:45.962479Z
+5901
+jwage
+has-props
+
+IntegrityMapper.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+57d8068dc75de38a96e8fdda5db1d203
+2009-11-24T19:24:33.315330Z
+6799
+jwage
+has-props
+
+Data
+dir
+
+View
+dir
+
+Compiler
+dir
+
+Node.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+9177bdadd2f91905e4b597bfba437e4e
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
+has-props
+
+Transaction.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+594dea33ad2da8d3f0d0f13195c09864
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+
+Builder.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+2669cbf13e13d12f0603a2a2d9858228
+2009-06-03T19:45:58.981416Z
+5818
+jwage
+has-props
+
+Record
+dir
+
+I18n
+dir
+
+Parser.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+ec435cbb4903ca02e4c7692f2c20884c
+2009-11-18T21:06:08.148854Z
+6765
+jwage
+has-props
+
+Configurable.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+628cb8f6b3521c5f67a388b17a0a8562
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+
+Locking
+dir
+
+Table
+dir
+
+Formatter.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+f6aca6ad7141d394acd042cf77e0cea4
+2009-11-19T19:02:41.822453Z
+6775
+jwage
+has-props
+
+Hydrator
+dir
+
+AuditLog.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+35b2090b302ec946dbe395a43269cd1b
+2009-11-24T20:56:45.982193Z
+6804
+jwage
+has-props
+
+RawSql.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+336b3eb755a08555a7c24882ff82b72f
+2010-03-01T20:47:32.453546Z
+7251
+jwage
+has-props
+
+Null.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+5dc691a40ac735aaaa1521192cc3afeb
+2009-06-22T15:44:45.962479Z
+5901
+jwage
+has-props
+
+Import.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+67cb01debea777eab3df5ba006dfdd57
+2009-11-24T20:45:54.259662Z
+6802
+jwage
+has-props
+
+Util.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+95e07673e6f4c3e88002e966606525cf
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
+has-props
+
+Cli
+dir
+
+Export.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+68e2020b998e7f7ff75afad31bfb1892
+2010-02-03T14:35:47.024309Z
+7103
+guilhermeblanco
+has-props
+
+Manager
+dir
+
+Template
+dir
+
+Relation
+dir
+
+DataDict
+dir
+
+EventListener.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+bad2ea0bb7b1c30b5f4f9bdbdd7f029c
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
+has-props
+
+Core.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+332864ee4c333d6a807a22c492c54ee2
+2010-03-01T22:57:14.739545Z
+7267
+jwage
+
+Migration.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+b73b0977eec5358ac3297a22d4855496
+2010-03-02T16:56:49.800757Z
+7288
+jwage
+has-props
+
+Collection.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+2a686f26ce728558473136440da61521
+2009-11-24T19:24:33.315330Z
+6799
+jwage
+has-props
+
+Column.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+d408b23368c227b743d72049c492de61
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
+has-props
+
+Pager.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+86867b9fe44952a4165cabefa83553be
+2009-06-22T15:44:45.962479Z
+5901
+jwage
+has-props
+
+Exception.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+241dd58b72cdec16602cfbd47434f958
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+
+Validator
+dir
+
+Expression.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+5c3650dcf3175ef76b45b93e8754c002
+2009-11-03T01:51:31.452227Z
+6628
+jwage
+has-props
+
+Tree.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+51a2a073cab5185df986790df8140603
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
+has-props
+
+Hook.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+46f7bf2cf5e66faea604c2d2e0476696
+2009-11-24T19:24:33.315330Z
+6799
+jwage
+has-props
+
+Access.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+d07006e323d147dcc83a72af349fbd00
+2009-10-13T23:29:18.706832Z
+6506
+jwage
+has-props
+
+Task.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+53cd07b3b07a112813ee8586c3af42f4
+2009-10-23T17:41:30.225311Z
+6561
+jwage
+has-props
+
+Lib.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+34d2b726ff71a32b753f52cd5a915ddf
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+
+Connection
+dir
+
+Data.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+c65ba69f630e1c4ea228f891f4cb1e66
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+
+Compiler.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+e833e79409c8d81d27179b141dd7ba2a
+2009-11-12T19:54:30.707042Z
+6718
+jwage
+has-props
+
+View.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+4710de1557a280eb30a41f4075641e46
+2009-07-24T19:39:27.114968Z
+6162
+jwage
+has-props
+
+Cache
+dir
+
+Locator
+dir
+
+Record.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+615e8d288b6462b0b29a69ddc6a9b208
+2010-03-02T19:13:01.593506Z
+7298
+jwage
+has-props
+
+Search
+dir
+
+Query
+dir
+
+I18n.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+07123889c2c0b1e8e65375d6847b3263
+2010-03-02T01:04:24.396231Z
+7279
+jwage
+has-props
+
+Event.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+4af2929874ed79c32ce5ea23aa676592
+2009-06-22T22:08:34.055910Z
+5926
+jwage
+has-props
+
+Sequence
+dir
+
+Table.php
+file
+
+
+
+
+2010-03-07T18:12:17.000000Z
+f6ba0b55f9a12f63d5aca4769ef0f968
+2010-03-02T18:46:23.228715Z
+7296
+jwage
+has-props
+

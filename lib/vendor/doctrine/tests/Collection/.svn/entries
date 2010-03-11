@@ -1,0 +1,41 @@
+8
+
+dir
+7315
+http://svn.doctrine-project.org/branches/1.2/tests/Collection
+http://svn.doctrine-project.org
+
+
+
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+625475ce-881a-0410-a577-b389adb331d8
+
+SnapshotTestCase.php
+file
+
+
+
+
+2010-03-07T18:12:04.000000Z
+83efdd19f0437d7459d5af420c3905f5
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
+has-props
+

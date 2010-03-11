@@ -1,0 +1,10 @@
+<?php $numPages = ceil($this->totalRecords/$this->perPage); ?>
+<?php if ($this->params['p']!=1): ?>
+	<a href="/employees/show/?p=<?php echo $this->params['p']-1; ?>">&lt;&lt;</a>&nbsp;
+<?php endif;?>
+<?php for($i=1; $i<=$numPages; $i++): ?>
+	<a<?php echo ($i==$this->params['p'] ? " class=\"bold\"" : " "); ?> href="/employees/show/?p=<?php echo $i; ?>">[<?php echo $i;?>]</a>&nbsp;
+<?php endfor; ?>
+<?php if ($this->params['p']!=$numPages): ?>
+	<a href="/employees/show/?p=<?php echo $this->params['p']+1; ?>">&gt;&gt;</a>
+<?php endif; ?>

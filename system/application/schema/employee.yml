@@ -1,0 +1,26 @@
+---
+Employee:
+    columns:
+        id:
+            primary: true
+            autoincrement: true
+            type: integer
+        fname:
+            type: string(15)
+            notnull: true
+        minit:
+            type: char(1)
+        lname:
+            type: string(15)
+            notnull: true
+        ssn:
+            type: char(9)
+            notnull: true
+        bdate:
+            type: date
+        address:
+            type: string(255)
+        sex:
+            type: char
+        salary:
+            type: decimal(10,2)

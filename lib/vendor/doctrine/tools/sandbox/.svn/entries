@@ -1,0 +1,95 @@
+8
+
+dir
+7315
+http://svn.doctrine-project.org/branches/1.2/tools/sandbox
+http://svn.doctrine-project.org
+
+
+
+2009-12-07T21:17:04.628350Z
+6891
+jwage
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+625475ce-881a-0410-a577-b389adb331d8
+
+extensions
+dir
+
+schema
+dir
+
+models
+dir
+
+doctrine
+file
+
+
+
+
+2010-03-07T18:12:03.000000Z
+0ed5b683aba24ece52d8cf6ee04e2677
+2007-12-19T22:41:11.012564Z
+3415
+Jonathan.Wage
+has-props
+
+data
+dir
+
+config.php
+file
+
+
+
+
+2010-03-07T18:12:03.000000Z
+7e40effbc165abd4f8df24650961c0c5
+2009-12-07T21:17:04.628350Z
+6891
+jwage
+has-props
+
+migrations
+dir
+
+doctrine.php
+file
+
+
+
+
+2010-03-07T18:12:03.000000Z
+bfe0caded8ceb7c7a2d06618e8ce9b0e
+2009-10-12T18:41:59.678765Z
+6485
+jwage
+has-props
+
+index.php
+file
+
+
+
+
+2010-03-07T18:12:03.000000Z
+5877410be504d949bae90a59054b12bf
+2009-10-12T17:40:41.504876Z
+6484
+jwage
+has-props
+

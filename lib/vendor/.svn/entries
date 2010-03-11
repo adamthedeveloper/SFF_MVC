@@ -1,0 +1,98 @@
+8
+
+dir
+7315
+http://svn.doctrine-project.org/branches/1.2
+http://svn.doctrine-project.org
+
+
+
+2010-03-04T10:42:54.775518Z
+7309
+adrive
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+625475ce-881a-0410-a577-b389adb331d8
+
+tools
+dir
+
+tests
+dir
+
+LICENSE
+file
+
+
+
+
+2010-03-07T18:10:52.000000Z
+ab0e2a7c09df7fc844fcb1480d01dd2d
+2009-02-25T13:34:02.209953Z
+5546
+romanb
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2010-03-07T18:10:52.000000Z
+f8e5b4569296a8f0a76ebf787a0d99f3
+2009-12-07T22:02:51.691745Z
+6894
+jwage
+
+COPYRIGHT
+file
+
+
+
+
+2010-03-07T18:10:52.000000Z
+a5fd34775b97cbbe2e89b4aafd2f6b3d
+2009-02-25T13:34:02.209953Z
+5546
+romanb
+
+UPGRADE_TO_1_2
+file
+
+
+
+
+2010-03-07T18:10:52.000000Z
+446e83b9dbf0650e235bbdf47d6e1fe6
+2010-01-12T21:13:42.792339Z
+7022
+Wombert
+
+package.xml
+file
+
+
+
+
+2010-03-07T18:10:52.000000Z
+09d2399d94c1cda0365bc42998f036fa
+2009-12-07T22:02:51.691745Z
+6894
+jwage
+has-props
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5900/branches/1.2/tests/migration_classes
+END
+1224120881_drop_profile.class.php.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/5900/branches/1.2/tests/migration_classes/1224120881_drop_profile.class.php.php
+END
+1224120879_add_user.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/5900/branches/1.2/tests/migration_classes/1224120879_add_user.class.php
+END
+1224120878_add_phonenumber.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/5900/branches/1.2/tests/migration_classes/1224120878_add_phonenumber.class.php
+END
+1224120880_add_profile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/5900/branches/1.2/tests/migration_classes/1224120880_add_profile.class.php
+END

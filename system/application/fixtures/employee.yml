@@ -1,0 +1,20 @@
+---
+Employee:
+    adam:
+        fname: adam
+        minit: r
+        lname: medeiros
+        ssn: 555451115
+        bdate: 2007-07-07
+        address: 888 Lala St. Lalatown, CA 94501
+        sex: M
+        salary: 100000
+    jennifer:
+        fname: Jennifer
+        minit: A
+        lname: McKee
+        ssn: 555451115
+        bdate: 2007-07-07
+        address: 888 Lala St. Lalatown, CA 94501
+        sex: F
+        salary: 100000
